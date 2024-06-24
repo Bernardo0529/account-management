@@ -1,14 +1,14 @@
-#ACCOUNT MANAGEMENT
+<h1>ACCOUNT MANAGEMENT</h1>
 
 This project allows users to manage their accounts, including features for login, signup, and account editing.
 
 Technologies Used
 
-- Frontend: React (Vite)
-- Backend: Node.js, Express
-- Database: MongoDB (using Mongoose for ODM)
+*Frontend: React (Vite)
+*Backend: Node.js, Express
+*Database: MongoDB (using Mongoose for ODM)
 
-##Installation
+<h3>Installation</h3>
 
 To run this project locally, follow the steps below:
 
@@ -33,7 +33,7 @@ To run this project locally, follow the steps below:
   npm install
 ```
 
-##Running the project
+<h3>Running the project</h3>
 
 *1. Start the server
 
@@ -49,7 +49,7 @@ To run this project locally, follow the steps below:
   npm run dev
 ```
 
-##Usage
+<h3>Usage</h3>
 
 *Signup: New users can create an account with name, email and password
 *Login: Existing user can authenticate using their credencials (email and password)
